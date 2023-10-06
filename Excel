@@ -1,0 +1,2 @@
+Reshma::	Settlement processing against claim and displaying available procedures for diseases with CRUD at insurance side and payments display and displaying procedures for diseases at hospital side 
+Bharadwaj:: Screens of  Insurance side  packages , diseases and attaching available diseases, categories  with crud  (DB logic) and view/ filter in serverside, Screens of Hospital side packages , diseases and attaching available diseases  & Insurance side logging
